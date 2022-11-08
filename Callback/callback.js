@@ -1,6 +1,4 @@
-function suma(a, b){
-    return a+b;
-}
+suma = (a, b) => a+b;
 
 function promedio(a, b, callback){
     let out = callback(a, b);
