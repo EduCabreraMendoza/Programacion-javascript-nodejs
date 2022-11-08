@@ -1,0 +1,19 @@
+{
+  "name": "mi-primer-modulo-npm",
+  "version": "1.0.0",
+  "description": "Ejemplo creacion modulo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduCabreraMendoza/Primer-Modulo-Nodejs-npm.git"
+  },
+  "author": "Eduardo Cabrera Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduCabreraMendoza/Primer-Modulo-Nodejs-npm/issues"
+  },
+  "homepage": "https://github.com/EduCabreraMendoza/Primer-Modulo-Nodejs-npm#readme"
+}

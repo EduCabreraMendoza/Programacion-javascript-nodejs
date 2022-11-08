@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongodb": "^4.11.0"
+  },
+  "name": "primer-paquete-npm",
+  "version": "1.0.0",
+  "description": "programa para aprender npm",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EduCabreraMendoza",
+  "license": "ISC"
+}
