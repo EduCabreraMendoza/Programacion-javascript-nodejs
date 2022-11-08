@@ -1,0 +1,14 @@
+{
+  "name": "variables-globales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gllobal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Cabrera",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
